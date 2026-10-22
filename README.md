@@ -2,15 +2,24 @@
 
 **Convert raw phone footage into lightweight proxy files for lag-free editing.**
 
+![Rapidcut converting a queue of phone clips into proxy files](screenshots/convert-queue.png)
+
 🌐 **Website & download:** [rapidcut.vercel.app](https://rapidcut.vercel.app)
 ⬇️ **Download for Windows:** [Rapidcut-Setup-1.0.4.exe](https://github.com/OscarWhiteman/rapidcut-releases/releases/download/v1.0.4/Rapidcut-Setup-1.0.4.exe) · [all releases](https://github.com/OscarWhiteman/rapidcut-releases/releases)
+
+> Windows may show a SmartScreen warning because Rapidcut isn’t code-signed yet. Click **More info → Run anyway**. Some antivirus tools (e.g. Norton) may also flag new, unsigned apps.
 
 ---
 
 ## Screenshots
 
-<!-- TODO: add screenshots, e.g. ![Main window](screenshots/main.png) -->
-_Screenshots coming soon._
+**Drop zone.** Drag in raw footage (MP4, MOV, MTS, M2TS, MKV and more) or browse for files.
+
+![Rapidcut's Convert to Proxy screen with an empty drop zone](screenshots/convert-drop-zone.png)
+
+**Batch queue.** Clips convert one after another, with live progress and a quick link to each finished proxy.
+
+![Rapidcut converting three clips in a batch queue](screenshots/convert-queue.png)
 
 ## Key features
 
@@ -35,7 +44,7 @@ _Screenshots coming soon._
 ## Installation
 
 1. Download [Rapidcut-Setup-1.0.4.exe](https://github.com/OscarWhiteman/rapidcut-releases/releases/download/v1.0.4/Rapidcut-Setup-1.0.4.exe) (or the newest from [Releases](https://github.com/OscarWhiteman/rapidcut-releases/releases)).
-2. Run the installer. Windows SmartScreen may warn because the app isn't code-signed yet: click **More info → Run anyway**.
+2. Run the installer.
 
 ## About the source code
 
