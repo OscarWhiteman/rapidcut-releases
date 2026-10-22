@@ -17,10 +17,6 @@
 
 ![Rapidcut's Convert to Proxy screen with an empty drop zone](screenshots/convert-drop-zone.png)
 
-**Batch queue.** Clips convert one after another, with live progress and a quick link to each finished proxy.
-
-![Rapidcut converting three clips in a batch queue](screenshots/convert-queue.png)
-
 ## Key features
 
 - **One-click proxy generation.** Turns heavy phone footage (HEVC, high-bitrate, variable frame rate) into smooth, edit-friendly proxy files.
